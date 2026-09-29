@@ -1,3 +1,3 @@
 <script>
-alert(1)
+alert(bypassed)
 </script>
